@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "type": "simple-idea",
+        "content": "Json is cool"
+    },
+    {
+        "id": "2",
+        "type": "complex-idea",
+        "content": "Node.js is a complex framework"
+    }
+]
